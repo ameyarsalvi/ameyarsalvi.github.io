@@ -21,7 +21,7 @@ repository               : "ameyarsalvi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/ameya_salvi_headshot_crop.jpg"
+  avatar           : "ameyarsalvi.github.io/images/ameya_salvi_headshot_crop.jpg"
   name             : "Ameya Salvi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at Clemson, Mobile robotics"
