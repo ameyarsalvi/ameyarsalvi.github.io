@@ -26,10 +26,17 @@ blockquote {
 </style>
 
 
-| ------------------------------------------------- | :-------------------------------------- | :----- |
-| <img src="images/Paw_RGB__Orange.jpg" width="75"/> | 2020 - 2024 : PhD at Clemson University |       | 
-|                                                  | Research Assistant - VIPR-GS            |        |
-|                                                   | Teaching Assistant - Autonomy Science and System |     |
-|                                                   | Disseration - Learning for Skid-steer wheel mobile robots |     |
-| <img src="images/Paw_RGB__Orange.jpg" width="75"/> | 2018 - 2020 : MS at Clemson University  |     |
+| ------------------------------------------------- | :-------------------------------------- | :-----  |
+| <img src="images/Paw_RGB__Orange.jpg" width="75"/> | 2020 - 2024 : PhD at Clemson University | | 
+|                                                    | Research Assistant - VIPR-GS            | |
+|                                                    | Teaching Assistant - Autonomy Science and System | |
+|                                                    | Disseration - Learning for Skid-steer wheel mobile robots | |
+| <img src="images/Paw_RGB__Orange.jpg" width="75"/> | 2018 - 2020 : MS at Clemson University  | |
+|                                                    | Course Focus : Dynamical Systems and Controls | |
+|                                                    | Summer Internship : Proterra | |
+| <img src="images/Paw_RGB__Orange.jpg" width="75"/> | 2013 - 2017 : BE at Mumbai University  | |
+|                                                    | Formula Student Competitions | |
+|                                                    | ASME Human Powered Vehicle Challenge | |
+|                                                    | Course Focus : Mechanical Engineering | |
+
 
