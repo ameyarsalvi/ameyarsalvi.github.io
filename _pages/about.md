@@ -23,6 +23,5 @@ blockquote {
 }
 </style>
 
-| Column One    | Column Two    |                                                                                                                                                   
-| ---           | ---           |                                                                                                                                                   
+                                                                                                                                                
 | data cell one | data cell two |     
