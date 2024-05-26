@@ -28,8 +28,8 @@ blockquote {
 
 | :------------------------------------------------- | :-------------------------------------- | 
 | <img src="images/Paw_RGB__Orange.jpg" width="75"/> | 2020 - 2024 : PhD at Clemson University | 
-|                  |                                 | Research Assistant - VIPR-GS            |
-|                  |                                 | Teaching Assistant - Autonomy Science and System |
-|                  |                                 | Disseration - Learning for Skid-steer wheel mobile robots |
+|                    :                              | Research Assistant - VIPR-GS            |
+|                   :                                | Teaching Assistant - Autonomy Science and System |
+|                  :                                 | Disseration - Learning for Skid-steer wheel mobile robots |
 | <img src="images/Paw_RGB__Orange.jpg" width="75"/> | 2018 - 2020 : MS at Clemson University  | 
 
