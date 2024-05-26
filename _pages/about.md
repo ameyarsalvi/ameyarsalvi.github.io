@@ -34,7 +34,7 @@ blockquote {
 | <img src="images/Paw_RGB__Orange.jpg" width="75"/> | 2018 - 2020 : MS at Clemson University  | |
 |                                                    | Course Focus : Dynamical Systems and Controls | |
 |                                                    | Summer Internship : Proterra | |
-| <img src="images/Paw_RGB__Orange.jpg" width="75"/> | 2013 - 2017 : BE at Mumbai University  | |
+| <img src="images/University_of_Mumbai.png" width="75"/> | 2013 - 2017 : BE at Mumbai University  | |
 |                                                    | Formula Student Competitions | |
 |                                                    | ASME Human Powered Vehicle Challenge | |
 |                                                    | Course Focus : Mechanical Engineering | |
