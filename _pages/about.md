@@ -23,5 +23,6 @@ blockquote {
 }
 </style>
 
-| :--           | :---          |                                                                                                                                              
-| data cell one | data cell two |     
+| :--                                                               | :---          | 
+| <img src="images/Paw_RGB__Orange.jpg" alt="drawing" width="200"/> | 2020 - 2024 : PhD at Clemson University |     
+
