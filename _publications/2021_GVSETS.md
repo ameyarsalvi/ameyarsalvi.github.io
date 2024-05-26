@@ -4,7 +4,7 @@ Planning and Stabilization of Offroad Vehicles"
 collection: publications
 permalink: /publication/2021_GVSETS
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-08
+date: 2021-08-10
 venue: '2021 NDIA GROUND VEHICLE SYSTEM ENGINEERING AND TECHNOLOGY
 SYMPOSIUM'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
