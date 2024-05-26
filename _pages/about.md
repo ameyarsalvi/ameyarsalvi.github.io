@@ -23,6 +23,6 @@ blockquote {
 }
 </style>
 
-| :--                                                               | :---          | 
-| <img src="images/Paw_RGB__Orange.jpg" width="25"/> | 2020 - 2024 : PhD at Clemson University |     
+| :------------------------------------------------- | :-------------------------------------- | 
+| <img src="images/Paw_RGB__Orange.jpg" width="50"/> | 2020 - 2024 : PhD at Clemson University |     
 
