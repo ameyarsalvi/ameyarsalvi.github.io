@@ -23,5 +23,5 @@ blockquote {
 }
 </style>
 
-|:---|:---|                                                                                                                                              
+| :--- | :--- |                                                                                                                                              
 | data cell one | data cell two |     
