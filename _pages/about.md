@@ -26,8 +26,8 @@ blockquote {
 
 ## Research Interests
 
-| ----------------------------------------------------- | ------------------- | -------------------- |
-| <img src="images/OutdoorAutonomyTN.png" width="200"/> |                     |                      |
+| ----------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- |
+| <img src="images/OutdoorAutonomyTN.png" width="250"/> | <img src="images/OutdoorAutonomyTN.png" width="250"/> |<img src="images/OutdoorAutonomyTN.png" width="250"/> |
 
 
 
