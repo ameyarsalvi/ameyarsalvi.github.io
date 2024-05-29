@@ -27,6 +27,7 @@ blockquote {
 ## Research Interests
 | Off-road Autonomy | Wheel Mobile Robots | Articulated Robotics |
 | ----------------- | ------------------- | -------------------- |
+| <img src="images/OutdoorAutonomyTN.png" width="100"/> |  |  |
 
 
 
