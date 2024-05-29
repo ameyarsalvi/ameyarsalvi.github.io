@@ -28,7 +28,7 @@ blockquote {
 
 <img src="images/ResearchOverview.png" width="900"/> 
 
-My current research experience spans the development of learning-based controllers for motion planning and control of a wide range of robot platforms and applications, including skid-steered wheeled mobile robots, Ackermann-steered car-like robots, cable-driven parallel robots, and robotic arms. My work emphasizes leveraging the underlying geometric robot motion models to structure and accelerate control policy learning. In addition to physical deployments, my experience also includes utilizing containerized high-power compute environments to enable rapid robot learning.
+My current research experience spans the development of learning-based controllers for motion planning and control of a wide range of robot platforms and applications, including skid-steered wheeled mobile robots, Ackermann-steered car-like robots, cable-driven parallel robots, and robotic arms. My work emphasizes leveraging the underlying geometric robot motion models to structure and accelerate control policy learning. In addition to physical deployments, my experience also includes utilizing containerized high-power compute simulated environments to enable rapid robot learning.
 
 
 ## Profession Highlights
