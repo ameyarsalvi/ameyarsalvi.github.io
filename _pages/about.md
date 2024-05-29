@@ -8,7 +8,7 @@ permalink: /
 ---
 
 
-I am Ameya Salvi, a PhD candidate in the department of Automotive Engineering at Clemson University. My research interests lie in mobile robotics with an emphasis on planning and control in uncertain and unstructured environments. I am currently a member of Dr. Venkat Krovi's ARMLab at Clemson. 
+I am Ameya Salvi, a PhD candidate in the Department of Automotive Engineering at Clemson University. My research interests lie in mobile robotics, with an emphasis on planning and control in uncertain and unstructured environments. I am currently a member of Dr. Venkat Krovi's ARMLab at Clemson.
 
 <style>
 table {
