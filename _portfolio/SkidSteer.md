@@ -1,5 +1,5 @@
 ---
-title: "Learning Enhanced Identification and Control for Skid-steered Wheeled Mobile Robotos"
+title: "Skid-steered Robots : Learning for system identification & control"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
