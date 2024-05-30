@@ -1,6 +1,6 @@
 ---
 title: "Skid-steered Robots : Learning for system identification & control"
-excerpt: "Exploration of contemporary machine learning methods for improved motion planning and controls for skid-steered wheeled mobile robots.  1<br/><img src='/images/SkidSteerTN_A.jpg'>"
+excerpt: "Exploration of contemporary machine learning methods for improved motion planning and controls for skid-steered wheeled mobile robots.  1<br/><img src='/images/SkidSteerTN_A.jpg'> 1<br/> Add something here"
 collection: portfolio
 ---
 
