@@ -1,6 +1,6 @@
 ---
 title: "Skid-steered Robots : Learning for system identification & control"
-excerpt: "Short description of portfolio item number 1<br/> <img src='images/SkidSteerTN_A.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/SkidSteerTN_A.jpg'>"
 collection: portfolio
 ---
 
