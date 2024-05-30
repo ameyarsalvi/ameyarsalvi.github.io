@@ -1,7 +1,8 @@
 ---
 title: "Skid-steered Robots : Learning for system identification & control"
-excerpt: "Short description of portfolio item number 1<br/><video src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/blob/master/images/SkidSteerVidTN.mp4" controls="controls" style="max-width: 730px;">
-</video>"
+excerpt: "Short description of portfolio item number 1<br/>"
+<video src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/blob/master/images/SkidSteerVidTN.mp4" controls="controls" style="max-width: 730px;">
+</video>
 collection: portfolio
 ---
 
