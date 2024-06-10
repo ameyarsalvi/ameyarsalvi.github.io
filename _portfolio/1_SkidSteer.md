@@ -8,4 +8,4 @@ collection: portfolio
 
 Low Frequency Visual servo (Publication in progress) 
 
-<iframe src="https://drive.google.com/file/d/1tH3SoMyIDk6CS9fLsMas2zz-V2X6w-Rk/preview" width="720" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tH3SoMyIDk6CS9fLsMas2zz-V2X6w-Rk/preview" width="900" height="480" allow="autoplay"></iframe>
