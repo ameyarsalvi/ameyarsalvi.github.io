@@ -69,8 +69,8 @@ Over the decades, robotics deployments have leveraging synergies with rapid in-p
 
 
 <p float="left">
-  <img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/4c198ac6-c88a-4f6f-b7dd-94dc1fe13fd5" width="450" height="400" />
-  <img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/75410e93-5ba3-45dd-98f9-1f843b63758c" width="450" height="400" /> 
+  <img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/4c198ac6-c88a-4f6f-b7dd-94dc1fe13fd5" width="450" height="250" />
+  <img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/75410e93-5ba3-45dd-98f9-1f843b63758c" width="450" height="250" /> 
 </p>
 
 **Associated research products**
