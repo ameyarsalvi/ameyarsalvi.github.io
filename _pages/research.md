@@ -5,7 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-
+### Quick Links
+1. [Skid-steered wheel mobile robots](#learning-enhanced-system-idendtification-and-control-for-kid-steer-wheel-mobile-robots)
+2. [Stabilization on bumpy terrain](#stabilization-of-vehicles-on-bumpy-terrain)
+3. [Articulated Robotics](#articulated-robotics)
+4. [Containerization for robotics](#containerization-approach-towards-robotics-code-development-and-deployment)
 
 
 # Learning enhanced system idendtification and control for skid-steer wheel mobile robots
