@@ -28,6 +28,7 @@ A low-perception frequency control policy trained using deep reinforcement learn
 Leveraging high performance compute clusters for photrealistic rendering of outdoor environments for systematic verification and validation of autonomy algorithms. In this work, NVIDIA ISAAC Sim was utilized to setup a visual navigation framework in outdoor simulation environments using the Palmetto cluster at Clemson University.
 
 **Associated research products**
+
 Code : <br />
 [Behavior Cloning](https://github.com/ClemsonFA1p1/SummitXL_BehaviourCloning) | 
 [Lane Keeping:Sim](https://github.com/ClemsonFA1p1/SummitXL_ReinforcementLearning) | 
