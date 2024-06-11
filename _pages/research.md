@@ -19,17 +19,22 @@ Skid-steered wheeled mobile robots (SSWMRs) find utility in a wide range of outd
 ## Deep reinforcement learning control
 <iframe src="https://drive.google.com/file/d/15OgLxI7fIti-KspaqmniIypnsGHWD6w9/preview" width="900" height="480" allow="autoplay"></iframe>
 
-A low-perception frequency control policy trained using deep reinforcement learning for combining the concepts of path look-ahead based motion planing, trajectory generation and control for skid-steer vehicles.
+A low-perception frequency control policy trained using deep reinforcement learning for combining the concepts of path look-ahead based motion planing, trajectory generation and control for skid-steer vehicles. Here, a proximal policy optimization (PPO) policy was trained using CoppeliaSim simulator as a gym environment coupled with the StableBaselines3 libraries for visual navigation under perception uncertainty for Clearpath Husky robot.
 
 ## Autonomy oriented digital twins using HPC
 
 ![HPC_Autonomy](https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/d79ec39c-a8f5-4ea0-9e66-1eb8ae16d67f)
 
+Leveraging high performance compute clusters for photrealistic rendering of outdoor environments for systematic verification and validation of autonomy algorithms. In this work, NVIDIA ISAAC Sim was utilized to setup a visual navigation framework in outdoor simulation environments using the Palmetto cluster at Clemson University.
 
 **Associated research products**
 Code : 
+[Behavior Cloning](https://github.com/ClemsonFA1p1/SummitXL_BehaviourCloning)
+[Lane Keeping:Sim](https://github.com/ClemsonFA1p1/SummitXL_ReinforcementLearning)
+[Skid-steer Visual Servoing](https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation)
 
 Publications : 
+1. [Virtual Evaluation of Deep Learning Techniques for Vision-Based Trajectory Tracking](/publication/2022_SAE_WCX)
 
 Technical Reports : 
 
@@ -44,7 +49,8 @@ Stabilizing vertical dynamics for on-road and off-road vehicles is an important 
 **Associated research products**
 
 Code : 
-[GitHub](https://github.com/ClemsonFA1p1/Krovi_Tallapragada_qcar_stabilization)
+[Scaled Vehicle Stabilization](https://github.com/ClemsonFA1p1/Krovi_Tallapragada_qcar_stabilization)
+[Quater-car Stabilization](https://github.com/ClemsonFA1p1/GVSETS_RL_QuarterCar)
 
 Publications : 
 1. [Stabilization of vertical motion of a vehicle on bumpy terrain using deep reinforcement learning](/publication/2022_MECC)
@@ -61,6 +67,12 @@ Cable driven parallel robots (CDPRs) are often challenging to model and to dynam
 
 **Associated research products**
 
+Code:
+[GitHub](https://github.com/ameyarsalvi/CDPR_ICRA)
+
+Publications :
+[Reinforcement Learning Control of a Reconfigurable Planar Cable Driven Parallel Manipulator](/publication/2023_ICRA)
+
 --- 
 
 # Containerization approach towards robotics code development and deployment
@@ -74,3 +86,10 @@ Over the decades, robotics deployments have leveraging synergies with rapid in-p
 </p>
 
 **Associated research products**
+
+Code:
+1. [Containerized Parallel Simulations](https://github.com/ClemsonFA1p1/Containerization_terramechanics)
+2. [Containerized Module Integration](https://github.com/ClemsonFA1p1/Husky_motion_plan)
+
+Publications:
+[Containerization Approach for High-Fidelity Terramechanics Simulations](/publications/2023_SAE_WCX)
