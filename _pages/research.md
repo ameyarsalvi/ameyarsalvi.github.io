@@ -14,9 +14,12 @@ author_profile: true
 --- 
 
 # Learning enhanced system idendtification and control for skid-steer wheel mobile robots
+Skid-steered wheeled mobile robots (SSWMRs) find utility in a wide range of outdoor application arenas owing to their design simplicity, high maneuverability and relative ease for human control. Complete or partial autonomy for SSWMRs can thus be of significant benefit for the dull, dirty and dangerous environments which these robots operate within. The followin research investigation entails leveraging contemporary machine learning methods for renvisioning the motion characteristics and off-road control strategies for SSWMRs. 
 
 ## Deep reinforcement learning control
 <iframe src="https://drive.google.com/file/d/15OgLxI7fIti-KspaqmniIypnsGHWD6w9/preview" width="900" height="480" allow="autoplay"></iframe>
+
+A low-perception frequency control policy trained using deep reinforcement learning for combining the concepts of path look-ahead based motion planing, trajectory generation and control for skid-steer vehicles.
 
 ## Autonomy oriented digital twins using HPC
 
