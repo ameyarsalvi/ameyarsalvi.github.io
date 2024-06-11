@@ -47,7 +47,8 @@ Code :
 [GitHub](https://github.com/ClemsonFA1p1/Krovi_Tallapragada_qcar_stabilization)
 
 Publications : 
-1. 
+1. [Stabilization of vertical motion of a vehicle on bumpy terrain using deep reinforcement learning](/publication/2022_MECC)
+2. [Deep Reinforcement Learning for Simultaneous Path Planning and stabilization of Off-road Vehicles]()
 --- 
 
 # Articulated Robotics
