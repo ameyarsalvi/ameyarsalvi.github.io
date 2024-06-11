@@ -48,7 +48,8 @@ Code :
 
 Publications : 
 1. [Stabilization of vertical motion of a vehicle on bumpy terrain using deep reinforcement learning](/publication/2022_MECC)
-2. [Deep Reinforcement Learning for Simultaneous Path Planning and stabilization of Off-road Vehicles]()
+2. [Deep Reinforcement Learning for Simultaneous Path Planning and stabilization of Off-road Vehicles](/publication/2021_GVSETS)
+   
 --- 
 
 # Articulated Robotics
