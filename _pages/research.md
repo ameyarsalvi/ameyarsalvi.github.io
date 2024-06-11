@@ -23,7 +23,7 @@ A low-perception frequency control policy trained using deep reinforcement learn
 
 ## Autonomy oriented digital twins using HPC
 
-<img src="images/HPC_Autonomy.png" width="900"/> 
+<img src="images/HPC_Autonomy.jpg" width="900"/> 
 
 **Associated research products**
 
