@@ -20,7 +20,7 @@ author_profile: true
 
 ## Autonomy oriented digital twins using HPC
 
-<img src="images/Hpc_autonomy.png" width="900"/> 
+<img src="images/HPC_Autonomy.jpg" width="900"/> 
 
 **Associated research products**
 
