@@ -27,6 +27,11 @@ A low-perception frequency control policy trained using deep reinforcement learn
 
 
 **Associated research products**
+Code : 
+
+Publications : 
+
+Technical Reports : 
 
  --- 
 
@@ -38,6 +43,11 @@ Stabilizing vertical dynamics for on-road and off-road vehicles is an important 
 
 **Associated research products**
 
+Code : 
+[GitHub](https://github.com/ClemsonFA1p1/Krovi_Tallapragada_qcar_stabilization)
+
+Publications : 
+1. 
 --- 
 
 # Articulated Robotics
