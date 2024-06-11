@@ -11,6 +11,7 @@ author_profile: true
 3. [Articulated Robotics](#articulated-robotics)
 4. [Containerization for robotics](#containerization-approach-towards-robotics-code-development-and-deployment)
 
+--- 
 
 # Learning enhanced system idendtification and control for skid-steer wheel mobile robots
 
@@ -20,6 +21,8 @@ author_profile: true
 ## Autonomy oriented digital twins using HPC
 
 **Associated research products**
+
+ --- 
 
 # Stabilization of vehicles on bumpy terrain
 
