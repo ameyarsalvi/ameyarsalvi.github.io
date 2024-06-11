@@ -31,25 +31,26 @@ A low-perception frequency control policy trained using deep reinforcement learn
 
 # Stabilization of vehicles on bumpy terrain
 
+Stabilizing vertical dynamics for on-road and off-road vehicles is an important research area that has been looked at mostly from the point of view of ride comfort. The advent of autonomous vehicles now shifts the focus more towards developing stabilizing techniques from the point of view of onboard proprioceptive and exteroceptive sensors whose real-time measurements influence the performance of an autonomous vehicle. The current solutions to this problem of managing the vertical oscillations usually limit themselves to the realm of active suspension systems without much consideration to modulating the vehicle velocity, which plays an important role by the virtue of the fact that vertical and longitudinal dynamics of a ground vehicle are coupled. The task of stabilizing vertical oscillations for military ground vehicles becomes even more challenging due lack of structured environments, like city roads or highways, in off-road scenarios. Moreover, changes in structural parameters of the vehicle, such as mass (due to changes in vehicle loading), suspension stiffness and damping values can have significant effect on the controller's performance. This demands the need for developing deep learning based control policies, that can take into account an extremely large number of input features and approximate a near optimal control action. In this work, these problems are addressed by training a deep reinforcement learning agent to minimize the vertical acceleration of a scaled vehicle travelling over bumps by controlling its velocity. 
+
 <iframe src="https://drive.google.com/file/d/1NlVM-7oufR6W0oXX-_F-P897iKylaFEW/preview" width="900" height="480" allow="autoplay"></iframe>
 
 **Associated research products**
 
+--- 
+
 # Articulated Robotics
 
 ## Cable driven parallel robots
+Cable driven parallel robots (CDPRs) are often challenging to model and to dynamically control due to the inherent flexibility and elasticity of the cables. The additional inclusion of online geometric reconfigurability to a CDPR results in a complex underdetermined system with highly non-linear dynamics. The necessary (numerical) redundancy resolution requires multiple layers of optimization rendering its application computationally prohibitive for real-time control. Here, deep reinforcement learning approaches can offer a model-free framework to overcome these challenges and can provide a real-time capable dynamic control. This study discusses three settings for a model-free DRL implementation in dynamic trajectory tracking: (i) for a standard non-redundant CDPR with a fixed workspace; (ii) in an end-to-end setting with redundancy resolution on a reconfigurable CDPR; and (iii) in a decoupled approach resolving kinematic and actuation redundancies individually.
 
 <iframe width="900" height="480" src="https://www.youtube.com/embed/IOs0d03G12g?si=8OYsWJkjWPaClFyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Associated research products**
 
-
-## Robotic arms
-
-**Associated research products**
-
+--- 
 
 # Containerization approach towards robotics code development and deployment
 
-
+Over the decades, robotics deployments have leveraging synergies with rapid in-parallel research and developmental advances in sensing, actuation, simulation, algorithmic control, communication, and high-performance computing among others. Collectively, their integration within a cyber-physical-systems framework has supercharged the increasingly complex realization of the real-time ‘sense-think-act’ robotics paradigm. Successful functioning of modern-day robots relies on seamless integration of increasingly complex systems (coming together at the component-, subsystem-, system- and system-of-system levels) as well as their systematic treatment throughout the life-cycle (from cradle to grave). As a consequence, ‘dependency management’ between the physical/algorithmic inter-dependencies of the multiple system elements is crucial for enabling synergistic (or managing adversarial) outcomes. In this work, we explore various facets of these challenges for autonomous operations with a simulated/physical Clearpath Husky robot by developing Robot Operating System (ROS) based Docker containers, that isolate different functions of the robot operations and yet interact with each other in  real-time for a synergistic deployment.
 
