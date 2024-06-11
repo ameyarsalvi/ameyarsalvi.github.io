@@ -69,7 +69,7 @@ Code:  <br />
 [GitHub](https://github.com/ameyarsalvi/CDPR_ICRA)
 
 Publications :
-[Reinforcement Learning Control of a Reconfigurable Planar Cable Driven Parallel Manipulator](/publication/2023_ICRA)
+1. [Reinforcement Learning Control of a Reconfigurable Planar Cable Driven Parallel Manipulator](/publication/2023_ICRA)
 
 --- 
 
