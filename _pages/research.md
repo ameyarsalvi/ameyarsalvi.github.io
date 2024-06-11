@@ -28,9 +28,9 @@ A low-perception frequency control policy trained using deep reinforcement learn
 Leveraging high performance compute clusters for photrealistic rendering of outdoor environments for systematic verification and validation of autonomy algorithms. In this work, NVIDIA ISAAC Sim was utilized to setup a visual navigation framework in outdoor simulation environments using the Palmetto cluster at Clemson University.
 
 **Associated research products**
-Code : 
-[Behavior Cloning](https://github.com/ClemsonFA1p1/SummitXL_BehaviourCloning)
-[Lane Keeping:Sim](https://github.com/ClemsonFA1p1/SummitXL_ReinforcementLearning)
+Code : <br />
+[Behavior Cloning](https://github.com/ClemsonFA1p1/SummitXL_BehaviourCloning) | 
+[Lane Keeping:Sim](https://github.com/ClemsonFA1p1/SummitXL_ReinforcementLearning) | 
 [Skid-steer Visual Servoing](https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation)
 
 Publications : 
@@ -48,8 +48,8 @@ Stabilizing vertical dynamics for on-road and off-road vehicles is an important 
 
 **Associated research products**
 
-Code : 
-[Scaled Vehicle Stabilization](https://github.com/ClemsonFA1p1/Krovi_Tallapragada_qcar_stabilization)
+Code :  <br />
+[Scaled Vehicle Stabilization](https://github.com/ClemsonFA1p1/Krovi_Tallapragada_qcar_stabilization) |
 [Quater-car Stabilization](https://github.com/ClemsonFA1p1/GVSETS_RL_QuarterCar)
 
 Publications : 
@@ -67,7 +67,7 @@ Cable driven parallel robots (CDPRs) are often challenging to model and to dynam
 
 **Associated research products**
 
-Code:
+Code:  <br />
 [GitHub](https://github.com/ameyarsalvi/CDPR_ICRA)
 
 Publications :
@@ -87,9 +87,9 @@ Over the decades, robotics deployments have leveraging synergies with rapid in-p
 
 **Associated research products**
 
-Code:
-1. [Containerized Parallel Simulations](https://github.com/ClemsonFA1p1/Containerization_terramechanics)
-2. [Containerized Module Integration](https://github.com/ClemsonFA1p1/Husky_motion_plan)
+Code:  <br />
+[Containerized Parallel Simulations](https://github.com/ClemsonFA1p1/Containerization_terramechanics) |
+[Containerized Module Integration](https://github.com/ClemsonFA1p1/Husky_motion_plan)
 
 Publications:
 [Containerization Approach for High-Fidelity Terramechanics Simulations](/publications/2023_SAE_WCX)
