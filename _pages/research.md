@@ -22,6 +22,8 @@ author_profile: true
 
 ### Cable driven parallel robots
 
+<iframe width="900" height="480" src="https://www.youtube.com/embed/IOs0d03G12g?si=8OYsWJkjWPaClFyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Associated research products**
 
 
