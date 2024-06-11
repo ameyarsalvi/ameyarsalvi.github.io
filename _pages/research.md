@@ -10,13 +10,25 @@ author_profile: true
 ### Deep reinforcement learning control
 <iframe src="https://drive.google.com/file/d/15OgLxI7fIti-KspaqmniIypnsGHWD6w9/preview" width="900" height="480" allow="autoplay"></iframe>
 
+**Associated research products**
+
 ## Stabilization of vehicles on bumpy terrain
+
+<iframe src="https://drive.google.com/file/d/1NlVM-7oufR6W0oXX-_F-P897iKylaFEW/preview" width="900" height="480" allow="autoplay"></iframe>
+
+**Associated research products**
 
 ## Articulated Robotics
 
 ### Cable driven parallel robots
 
+**Associated research products**
+
+
 ### Robotic arms
+
+**Associated research products**
+
 
 ## Containerization approach towards robotics code development and deployment
 
