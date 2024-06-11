@@ -36,8 +36,6 @@ Code : <br />
 Publications : 
 1. [Virtual Evaluation of Deep Learning Techniques for Vision-Based Trajectory Tracking](/publication/2022_SAE_WCX)
 
-Technical Reports : 
-
  --- 
 
 # Stabilization of vehicles on bumpy terrain
@@ -92,4 +90,4 @@ Code:  <br />
 [Containerized Module Integration](https://github.com/ClemsonFA1p1/Husky_motion_plan)
 
 Publications:
-[Containerization Approach for High-Fidelity Terramechanics Simulations](/publications/2023_SAE_WCX)
+1. [Containerization Approach for High-Fidelity Terramechanics Simulations](/publications/2023_SAE_WCX)
