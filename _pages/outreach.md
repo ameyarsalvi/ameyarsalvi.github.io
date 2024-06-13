@@ -10,4 +10,4 @@ author_profile: true
 MCT's Rajiv Gandhi Institute of Technology, Mumbai, India
 
 
-<img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/831ae404-74eb-491e-ad3b-6e0b8e45923d" width="450" />
+<img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/831ae404-74eb-491e-ad3b-6e0b8e45923d" width="640" />
