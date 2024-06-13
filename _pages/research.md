@@ -11,9 +11,6 @@ author_profile: true
 3. [Articulated Robotics](#articulated-robotics)
 4. [Containerization for robotics](#containerization-approach-towards-robotics-code-development-and-deployment)
 
----
-<hr size="100">
-
 <hr style="border:2px solid gray">
 
 # Learning enhanced system idendtification and control for skid-steer wheel mobile robots
