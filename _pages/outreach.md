@@ -17,4 +17,10 @@ An invited talk at my alma mater for sharing research opportunities and challeng
 ### ARMLab outreach activity
 Greenville, South Carolina (Spring 2021)
 
-<img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/8a9424b8-6e3d-45ee-ab15-a1ffd03ef2c3" width="640" height = "480" />
+
+<p float="left">
+  <img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/8a9424b8-6e3d-45ee-ab15-a1ffd03ef2c3" width="300" height ="240"/>
+  <img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/1f33c2cc-b764-4943-b99c-355c99eb8274" width="300" height="240" /> 
+  <img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/d4398653-13ea-4a7f-8f9c-e5da03a5cb5a" width="300" height="240" /> 
+</p>
+
