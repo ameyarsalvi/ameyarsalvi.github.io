@@ -37,7 +37,7 @@ Code : <br />
 Publications : 
 1. [Virtual Evaluation of Deep Learning Techniques for Vision-Based Trajectory Tracking](/publication/2022_SAE_WCX)
 
- --- 
+<hr style="border:2px solid gray">
 
 # Stabilization of vehicles on bumpy terrain
 
@@ -55,7 +55,7 @@ Publications :
 1. [Stabilization of vertical motion of a vehicle on bumpy terrain using deep reinforcement learning](/publication/2022_MECC)
 2. [Deep Reinforcement Learning for Simultaneous Path Planning and stabilization of Off-road Vehicles](/publication/2021_GVSETS)
    
---- 
+<hr style="border:2px solid gray">
 
 # Articulated Robotics
 
@@ -72,7 +72,7 @@ Code:  <br />
 Publications :
 1. [Reinforcement Learning Control of a Reconfigurable Planar Cable Driven Parallel Manipulator](/publication/2023_ICRA)
 
---- 
+<hr style="border:2px solid gray">
 
 # Containerization approach towards robotics code development and deployment
 
