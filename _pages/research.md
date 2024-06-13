@@ -12,7 +12,9 @@ author_profile: true
 4. [Containerization for robotics](#containerization-approach-towards-robotics-code-development-and-deployment)
 
 ---
-<hr size="30">
+<hr size="100">
+
+<hr style="border:2px solid gray">
 
 # Learning enhanced system idendtification and control for skid-steer wheel mobile robots
 Skid-steered wheeled mobile robots (SSWMRs) find utility in a wide range of outdoor application arenas owing to their design simplicity, high maneuverability and relative ease for human control. Complete or partial autonomy for SSWMRs can thus be of significant benefit for the dull, dirty and dangerous environments which these robots operate within. The followin research investigation entails leveraging contemporary machine learning methods for renvisioning the motion characteristics and off-road control strategies for SSWMRs. 
