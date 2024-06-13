@@ -7,14 +7,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Outreach"
-    url: /outreach/
+  - title: "Social"
+    url: /social/
 
 #  - title: "Talks"
 #    url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
