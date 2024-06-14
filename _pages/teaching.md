@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 # Courses
-## Graduate Teaching Assitant
+## Graduate Teaching Assistant
+### [AuE 8930 : Autonomy Science and Systems](https://sites.google.com/view/armlab-cuicar/courses?authuser=0) 
+
+
 
 ## Graduate Grading Assistant
 
