@@ -40,6 +40,19 @@ A talk on getting started with applied deep reinforcement learning for mechanica
 # Research Mentoring
 Research assitance and mentoring for master's level graduate students and lab interns (All activities supervised and supported by Dr. Venkat Krovi at ARMLab).
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+
 | ------------------------------------------------- | :-------------------------------------- | :-----  |
 | *Fall 2021*                                       | **AWS Deepracer leauge** | | 
 | Vainktesh Swami, Vishal Jadhav, Harshal Varpe     | Participated in AWS Deepracer leauge           | |
