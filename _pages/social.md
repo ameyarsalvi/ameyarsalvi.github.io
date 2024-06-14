@@ -21,8 +21,8 @@ An invited talk at my alma mater for sharing research opportunities and challeng
 
 <img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/831ae404-74eb-491e-ad3b-6e0b8e45923d" width="640" />
 
-## Dr. Phinnize J. Fisher Middle School visit
-### ARMLab outreach activity
+## ARMLab outreach activities
+### Dr. Phinnize J. Fisher Middle School visit
 Greenville, South Carolina (Spring 2021)
 
 Interacting with K-12 students to share experiences of grad school, robotics and a career in science as a part of ARMLab outreach activities. (With some drone theatrics for entertainment!)
