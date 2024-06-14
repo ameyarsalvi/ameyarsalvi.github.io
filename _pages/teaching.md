@@ -26,7 +26,7 @@ Official appointments as teaching & grading assitant at Clemson University durin
 # Student Workshops
 Workshops/seminars conduted for graduate students and peers as a part of lab or club activities. 
 
-## NVIDIA Deep Learning Institue 
+## NVIDIA Deep Learning Institute 
 
 ## Applied Deep Reinforcement Learning
 
