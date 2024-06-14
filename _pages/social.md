@@ -5,6 +5,14 @@ permalink: /social/
 author_profile: true
 ---
 
+## Treasurer, Society of Doctoral Students in Automotive Engineering ([SDSAE](https://clemson.campuslabs.com/engage/organization/sdsae))
+## Student organization office position
+The Society of Doctoral Students in Automotive Engineering aims to promote a supportive and inclusive community for doctoral students in the Department of Automotive Engineering to bolster their personal and professional growth.
+
+![SDSAE](https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/a63fa785-caf6-49d3-a28c-5f114faad07d)
+
+
+
 ## Oportunity and Challenges in Robot Autonomy
 ### Invited talk (webinar)
 MCT's Rajiv Gandhi Institute of Technology, Mumbai, India (March, 2023)
