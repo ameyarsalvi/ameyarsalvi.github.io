@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<hr style="border:2px solid gray">
+
 # Courses
 Official appointments as teaching & grading assitant at Clemson University during graduate studies.
 
@@ -19,12 +21,16 @@ Official appointments as teaching & grading assitant at Clemson University durin
 1. Assignment grading assitant for undegraduate dynmaics course with Dr. Phanindra Tallapragda.
 2. Course covers modeling of dynmaical systems with focus on mechanical systems.
 
+<hr style="border:2px solid gray">
+
 # Student Workshops
 Workshops/seminars conduted for graduate students and peers as a part of lab or club activities. 
 
 ## NVIDIA Deep Learning Institue 
 
 ## Applied Deep Reinforcement Learning
+
+<hr style="border:2px solid gray">
 
 # Research Mentoring
 Research assitance and mentoring for masters level graduate students and lab interns.
