@@ -27,6 +27,9 @@ Official appointments as teaching & grading assitant at Clemson University durin
 Workshops/seminars conduted for graduate students and peers as a part of lab or club activities. 
 
 ## NVIDIA Deep Learning Institute 
+![DLI](https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/8b9934a2-0ce3-47cf-953a-c1eb27bfabfe)
+
+
 
 ## Applied Deep Reinforcement Learning
 
