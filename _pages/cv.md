@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+xfun::embed_file("files/AmeyaSalvi_MasterCV.pdf")
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
