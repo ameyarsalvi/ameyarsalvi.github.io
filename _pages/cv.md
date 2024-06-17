@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<object data = "files/AmeyaSalvi_MasterCV.pdf" type ="application/pdf" width = "100%">
+<object data = "[files/AmeyaSalvi_MasterCV.pdf](https://github.com/ameyarsalvi/ameyarsalvi.github.io/blob/master/files/AmeyaSalvi_MasterCV.pdf)" type ="application/pdf" width = "100%">
 </object>  
 
+https://github.com/ameyarsalvi/ameyarsalvi.github.io/blob/master/files/AmeyaSalvi_MasterCV.pdf 
