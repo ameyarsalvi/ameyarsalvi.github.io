@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ameya Salvi | Research Portfolio"
+title                    : "Ameya Salvi"
 title_separator          : "-"
 name                     : &name "Ameya Salvi"
 description              : &description "personal description"
