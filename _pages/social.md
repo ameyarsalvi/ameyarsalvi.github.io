@@ -33,3 +33,8 @@ Interacting with K-12 students to share experiences of grad school, robotics and
   <img src="https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/d4398653-13ea-4a7f-8f9c-e5da03a5cb5a" width="300" height="200" /> 
 </p>
 
+
+## Fun Stuff
+### Teleoperating a full scaled Polaris RZR 
+Greenville, SC
+
