@@ -18,7 +18,7 @@ Modeling, Estimation and Control Conference, Chicago (October 2024)
 
 An invited presentaion in the session "The Future of the Controls Field: Research Perspectives From Young Members of the MECC Community"
 
-![IMG_7507 Copy](https://github.com/user-attachments/assets/e7495f3b-002f-4c4e-b479-7ace9f460e38)
+![IMG_7507 Copy](https://github.com/user-attachments/assets/33aefc45-647e-41e1-a8c3-6cecfaac4f0c)
 
 
 
