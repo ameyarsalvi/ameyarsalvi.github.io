@@ -16,7 +16,7 @@ The Society of Doctoral Students in Automotive Engineering aims to promote a sup
 ### Invited Presentation
 Modeling, Estimation and Control Conference, Chicago (October 2024)
 
-An invited presentaion in the session "The Future of the Controls Field: Research Perspectives From Young Members of the MECC Community"
+An invited presentation in the session "The Future of the Controls Field: Research Perspectives From Young Members of the MECC Community"
 
 ![IMG_7507 Copy](https://github.com/user-attachments/assets/33aefc45-647e-41e1-a8c3-6cecfaac4f0c)
 
