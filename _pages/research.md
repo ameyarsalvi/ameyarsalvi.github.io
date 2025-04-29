@@ -21,7 +21,8 @@ Skid-steered wheeled mobile robots (SSWMRs) find utility in a wide range of outd
 
 A low-perception frequency control policy trained using deep reinforcement learning for combining the concepts of path look-ahead based motion planing, trajectory generation and control for skid-steer vehicles. Here, a proximal policy optimization (PPO) policy was trained using CoppeliaSim simulator as a gym environment coupled with the StableBaselines3 libraries for visual navigation under perception uncertainty for Clearpath Husky robot.
 
-## Online identification of skidding modes with interactive multiple model estimation
+## Online identification of skidding modes with interactive multiple model estimation 
+[Project Page](_projects/HuskyIMM.md)
 
 Skid-steered wheel mobile robots (SSWMRs) operate in a variety of outdoor environments exhibiting motion behaviors dominated by the effects of complex wheel-ground interactions. Characterizing these interactions is crucial both from the immediate robot autonomy perspective (for motion prediction and control) as well as a long-term predictive maintenance and diagnostics perspective. An ideal solution entails capturing precise state measurements for decisions and controls, which is considerably difficult, especially in increasingly unstructured outdoor regimes of operations for these robots. In this milieu, a framework to identify pre-determined discrete modes of operation can considerably simplify the motion model identification process. To this end, we propose an interactive multiple model (IMM) based filtering framework to probabilistically identify predefined robot operation modes that could arise due to traversal in different terrains or loss of wheel traction.
 
