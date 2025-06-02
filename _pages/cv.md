@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-<embed src="/files/AmeyaSalvi_MasterCV.pdf" type="application/pdf" height="500"/>
+<embed src="/files/AmeyaSalvi_Resume.pdf" type="application/pdf" height="500"/>
 
