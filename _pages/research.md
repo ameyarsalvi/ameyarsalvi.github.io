@@ -72,8 +72,6 @@ A low-perception frequency control policy trained using deep reinforcement learn
 
 Skid-steered wheel mobile robots (SSWMRs) operate in a variety of outdoor environments exhibiting motion behaviors dominated by the effects of complex wheel-ground interactions. Characterizing these interactions is crucial both from the immediate robot autonomy perspective (for motion prediction and control) as well as a long-term predictive maintenance and diagnostics perspective. An ideal solution entails capturing precise state measurements for decisions and controls, which is considerably difficult, especially in increasingly unstructured outdoor regimes of operations for these robots. In this milieu, a framework to identify pre-determined discrete modes of operation can considerably simplify the motion model identification process. To this end, we propose an interactive multiple model (IMM) based filtering framework to probabilistically identify predefined robot operation modes that could arise due to traversal in different terrains or loss of wheel traction.
 
-<iframe width="640" height="320" src="https://www.youtube.com/embed/vrpJjbzV0mk?si=m8W78UIgzfvQZMJK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Autonomy oriented digital twins using HPC
 
 ![HPC_Autonomy](https://github.com/ameyarsalvi/ameyarsalvi.github.io/assets/54649022/d79ec39c-a8f5-4ea0-9e66-1eb8ae16d67f)
@@ -97,7 +95,29 @@ Publications :
 
 Stabilizing vertical dynamics for on-road and off-road vehicles is an important research area that has been looked at mostly from the point of view of ride comfort. The advent of autonomous vehicles now shifts the focus more towards developing stabilizing techniques from the point of view of onboard proprioceptive and exteroceptive sensors whose real-time measurements influence the performance of an autonomous vehicle. The current solutions to this problem of managing the vertical oscillations usually limit themselves to the realm of active suspension systems without much consideration to modulating the vehicle velocity, which plays an important role by the virtue of the fact that vertical and longitudinal dynamics of a ground vehicle are coupled. The task of stabilizing vertical oscillations for military ground vehicles becomes even more challenging due lack of structured environments, like city roads or highways, in off-road scenarios. Moreover, changes in structural parameters of the vehicle, such as mass (due to changes in vehicle loading), suspension stiffness and damping values can have significant effect on the controller's performance. This demands the need for developing deep learning based control policies, that can take into account an extremely large number of input features and approximate a near optimal control action. In this work, these problems are addressed by training a deep reinforcement learning agent to minimize the vertical acceleration of a scaled vehicle travelling over bumps by controlling its velocity. 
 
-<iframe src="https://drive.google.com/file/d/1NlVM-7oufR6W0oXX-_F-P897iKylaFEW/preview" width="640" height="320" allow="autoplay"></iframe>
+<style>
+.responsive-iframe-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 50%; /* 16:9 aspect ratio: 9/16 = 56.25%, 2:1 = 50% */
+  height: 0;
+  overflow: hidden;
+}
+
+.responsive-iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+</style>
+
+<div class="responsive-iframe-container">
+  <iframe src="https://drive.google.com/file/d/1NlVM-7oufR6W0oXX-_F-P897iKylaFEW/preview" allow="autoplay"></iframe>
+</div>
+
 
 **Associated research products**
 
