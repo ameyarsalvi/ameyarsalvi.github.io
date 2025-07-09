@@ -81,9 +81,11 @@ Leveraging high performance compute clusters for photrealistic rendering of outd
 **Associated research products**
 
 Code : <br />
+[Pose informed Reinforcement Learning](https://github.com/ameyarsalvi/PoseEnhancedSSVN) |
 [Behavior Cloning](https://github.com/ClemsonFA1p1/SummitXL_BehaviourCloning) | 
 [Lane Keeping:Sim](https://github.com/ClemsonFA1p1/SummitXL_ReinforcementLearning) | 
-[Skid-steer Visual Servoing](https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation)
+[Skid-steer Visual Servoing](https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation) |
+[IMM based mode identification](https://github.com/ameyarsalvi/2025_ICRA_HuskyIMM)
 
 Publications : 
 1. [Virtual Evaluation of Deep Learning Techniques for Vision-Based Trajectory Tracking](/publication/2022_SAE_WCX)
