@@ -88,6 +88,8 @@ Code : <br />
 Publications : 
 1. [Virtual Evaluation of Deep Learning Techniques for Vision-Based Trajectory Tracking](/publication/2022_SAE_WCX)
 2. [Online identification of skidding modes with interactive multiple model estimation](https://arxiv.org/abs/2409.20554)
+3. [Experimental investigation of pose informed reinforcement learning for skid-steered visual navigation](https://arxiv.org/abs/2506.21732)
+4. [Characterizing gaussian mixture of motion modes for skid-steer state estimation](https://arxiv.org/abs/2505.00200)
 
 <hr style="border:2px solid gray">
 
